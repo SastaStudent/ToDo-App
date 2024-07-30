@@ -21,7 +21,7 @@ This is a simple TODO List application built with React and Vite. It allows user
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/SastaStudent/ToDo-App.git
    cd todo-list-app
 
 
